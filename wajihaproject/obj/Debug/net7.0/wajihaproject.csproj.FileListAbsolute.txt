@@ -1,0 +1,14 @@
+C:\Users\asp\source\repos\wajihaproject\wajihaproject\bin\Debug\net7.0\wajihaproject.exe
+C:\Users\asp\source\repos\wajihaproject\wajihaproject\bin\Debug\net7.0\wajihaproject.deps.json
+C:\Users\asp\source\repos\wajihaproject\wajihaproject\bin\Debug\net7.0\wajihaproject.runtimeconfig.json
+C:\Users\asp\source\repos\wajihaproject\wajihaproject\bin\Debug\net7.0\wajihaproject.dll
+C:\Users\asp\source\repos\wajihaproject\wajihaproject\bin\Debug\net7.0\wajihaproject.pdb
+C:\Users\asp\source\repos\wajihaproject\wajihaproject\obj\Debug\net7.0\wajihaproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\source\repos\wajihaproject\wajihaproject\obj\Debug\net7.0\wajihaproject.AssemblyInfoInputs.cache
+C:\Users\asp\source\repos\wajihaproject\wajihaproject\obj\Debug\net7.0\wajihaproject.AssemblyInfo.cs
+C:\Users\asp\source\repos\wajihaproject\wajihaproject\obj\Debug\net7.0\wajihaproject.csproj.CoreCompileInputs.cache
+C:\Users\asp\source\repos\wajihaproject\wajihaproject\obj\Debug\net7.0\wajihaproject.dll
+C:\Users\asp\source\repos\wajihaproject\wajihaproject\obj\Debug\net7.0\refint\wajihaproject.dll
+C:\Users\asp\source\repos\wajihaproject\wajihaproject\obj\Debug\net7.0\wajihaproject.pdb
+C:\Users\asp\source\repos\wajihaproject\wajihaproject\obj\Debug\net7.0\wajihaproject.genruntimeconfig.cache
+C:\Users\asp\source\repos\wajihaproject\wajihaproject\obj\Debug\net7.0\ref\wajihaproject.dll
